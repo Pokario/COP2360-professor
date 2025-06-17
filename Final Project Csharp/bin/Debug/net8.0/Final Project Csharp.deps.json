@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final Project Csharp/1.0.0": {
+        "runtime": {
+          "Final Project Csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Project Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
